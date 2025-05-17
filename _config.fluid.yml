@@ -1032,23 +1032,29 @@ links:
   # Member item of page
   items:
     - {
+      title: "南华大学",
+      intro: "湖南省国内一流大学建设高校",
+      link: "https://www.usc.edu.cn/",
+      avatar: "/img/usc.webp"
+    }
+    - {
+      title: "计算机学院/软件学院",
+      intro: "南华大学计算机学院/软件学院",
+      link: "https://jsjxy.usc.edu.cn/",
+      avatar: "/img/usc-jsj.png"
+    }
+    - {
       title: "tianwenlong001",
       intro: "田纹龙老师的博客",
       link: "https://tianwenlong001.github.io/",
       avatar: "https://tianwenlong001.github.io/assets/img/logo.jpeg"
     }
-    # - {
-    #   title: "Fluid Docs",
-    #   intro: "主题使用指南",
-    #   link: "https://hexo.fluid-dev.com/docs/",
-    #   avatar: "/img/favicon.png"
-    # }
-    # - {
-    #   title: "Fluid Repo",
-    #   intro: "主题 GitHub 仓库",
-    #   link: "https://github.com/fluid-dev/hexo-theme-fluid",
-    #   avatar: "/img/favicon.png"
-    # }
+    - {
+      title: "本24软创01班",
+      intro: "南华大学计算机学院本24软创01班",
+      link: "https://tianwenlong001.github.io/wenlongtian/rc_class_doc/main",
+      avatar: "/img/favicon.png"
+    }
 
   # 当成员头像加载失败时，替换为指定图片
   # When the member avatar fails to load, replace the specified image
